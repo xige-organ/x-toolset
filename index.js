@@ -7,7 +7,7 @@ import highLight from './src/tools/format/highLight'
 import validate from './src/tools/validate'
 import cookie from './src/tools/cookie'
 import localStorage from './src/tools/localStorage'
-import excel from './src/tools/excel'
+import excel from './src/tools/practical/excel'
 import practical from './src/tools/practical'
 import array from './src/tools/array'
 const module = {
